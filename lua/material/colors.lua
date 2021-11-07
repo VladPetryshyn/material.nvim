@@ -145,7 +145,7 @@ elseif vim.g.material_style == 'palenight' then
 elseif vim.g.material_style == 'deep ocean' then
 	-- Deep Ocean theme style
 
-	material.bg =			'#0F111A'
+	material.bg =			'#000000'
 	material.bg_alt =		'#090B10'
 	material.fg =			'#A6ACCD'
 	material.text =			'#717CB4'
@@ -157,7 +157,7 @@ elseif vim.g.material_style == 'deep ocean' then
 	material.line_numbers =	'#3B3F51'
 	material.highlight =	'#1F2233'
 	material.disabled =		'#464B5D'
-	material.accent =		'#84FFFF'
+	material.accent =		'#F07178'
 
 else vim.g.material_style = 'oceanic'
 	-- Oceanic theme style
